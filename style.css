@@ -90,4 +90,8 @@
     #chk:checked ~ .menu{
         right: 0;
     }
+    .hosomi{
+        position: fixed;
+        width: 100%;
+    }
 }
