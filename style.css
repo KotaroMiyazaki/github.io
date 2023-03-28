@@ -55,8 +55,6 @@
 }
 .content hosomi{
     width: 100%;
-    max-width: 700px;
-    margin: 20px 0;
 }
 .content p{
     text-align: justify;
@@ -92,5 +90,6 @@
     }
     .takeshi{
         width: 100%;
+        height: auto;
     }
 }
