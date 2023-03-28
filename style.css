@@ -90,8 +90,7 @@
     #chk:checked ~ .menu{
         right: 0;
     }
-    .hosomi{
-        position: fixed;
+    .takeshi{
         width: 100%;
     }
 }
